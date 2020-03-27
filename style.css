@@ -1,0 +1,23 @@
+.tb{
+    width: 500px;
+    border: solid 1px black;
+}
+.row{
+    width: 100%;
+}
+.border{
+    border: solid 1px black;
+}
+.height{
+    height: 50px;
+    text-align: start;
+}
+.background{
+    background-color: green;
+}
+.foot{
+height: 30px;
+}
+.text-align{
+    text-align: start;
+}
